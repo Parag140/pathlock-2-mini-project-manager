@@ -1,0 +1,166 @@
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.AssemblyReference.cache
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfoInputs.cache
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfo.cs
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.CoreCompileInputs.cache
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.exe
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.deps.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.runtimeconfig.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.pdb
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.ProjectManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ProjectManagerAPI.props
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProjectManagerAPI.props
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProjectManagerAPI.props
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/scopedcss/bundle/ProjectManagerAPI.styles.css
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectM.BF1BB78E.Up2Date
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/refint/ProjectManagerAPI.dll
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.pdb
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.genruntimeconfig.cache
+C:/Users/paras/OneDrive/Desktop/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ref/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/appsettings.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.deps.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.runtimeconfig.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.pdb
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.AssemblyReference.cache
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfoInputs.cache
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.CoreCompileInputs.cache
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.ProjectManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/scopedcss/bundle/ProjectManagerAPI.styles.css
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectM.BF1BB78E.Up2Date
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/refint/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.pdb
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.genruntimeconfig.cache
+/Users/paraggupta/Downloads/pathlock2/ProjectManagerAPI/obj/Debug/net8.0/ref/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/appsettings.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.deps.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.runtimeconfig.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.pdb
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.AssemblyReference.cache
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfoInputs.cache
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.CoreCompileInputs.cache
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.ProjectManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/scopedcss/bundle/ProjectManagerAPI.styles.css
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectM.BF1BB78E.Up2Date
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/refint/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.pdb
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.genruntimeconfig.cache
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ref/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.sourcelink.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/appsettings.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.deps.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.runtimeconfig.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/ProjectManagerAPI.pdb
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.AssemblyReference.cache
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfoInputs.cache
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.AssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.csproj.CoreCompileInputs.cache
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.sourcelink.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.ProjectManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProjectManagerAPI.props
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/scopedcss/bundle/ProjectManagerAPI.styles.css
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectM.BF1BB78E.Up2Date
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/refint/ProjectManagerAPI.dll
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.pdb
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ProjectManagerAPI.genruntimeconfig.cache
+/Users/paraggupta/Downloads/pathlock2 2 copy/ProjectManagerAPI/obj/Debug/net8.0/ref/ProjectManagerAPI.dll
