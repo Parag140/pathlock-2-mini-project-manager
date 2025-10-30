@@ -1,111 +1,133 @@
-ProjectManagerAPI/ # Backend .NET API
-├── Controllers/ # API Controllers (Auth, Projects, Tasks)
-├── Models/ # Data Models (User, Project, TaskItem)
-├── DTOs/ # Data Transfer Objects
-├── Services/ # Business Logic Layer
-├── Data/ # Data Store Interface & Implementation
-└── Program.cs # Application Configuration
+Project Manager
 
-project-manager-frontend/ # Frontend React App
+A full-stack project and task management system built with .NET 8 (C#) and React + TypeScript.
+It includes user authentication, project handling, and task scheduling — with a modular and scalable architecture.
+
+🏗️ Project Structure
+ProjectManagerAPI/                # Backend (.NET API)
+├── Controllers/                  # API Controllers (Auth, Projects, Tasks)
+├── Models/                       # Data Models (User, Project, TaskItem)
+├── DTOs/                         # Data Transfer Objects
+├── Services/                     # Business Logic Layer
+├── Data/                         # Data Store Interface & Implementation
+└── Program.cs                    # Application Configuration
+
+project-manager-frontend/         # Frontend (React App)
 ├── src/
-│ ├── components/ # Reusable UI Components
-│ ├── pages/ # Application Pages
-│ ├── api/ # API Configuration
-│ ├── utils/ # Utility Functions
-│ └── types/ # TypeScript Type Definitions
+│   ├── components/               # Reusable UI Components
+│   ├── pages/                    # Application Pages
+│   ├── api/                      # API Configuration
+│   ├── utils/                    # Utility Functions
+│   └── types/                    # TypeScript Type Definitions
+
+🚀 Quick Start
+✅ Prerequisites
+
+Make sure you have installed:
+
+.NET 8 SDK
+
+Node.js 18+
+ and npm
+
+⚙️ Backend Setup
+
+Navigate to backend directory
+
+cd ProjectManagerAPI
 
 
-## 🚀 Quick Start
+Restore dependencies and run the server
 
-### Prerequisites
-- .NET 8 SDK
-- Node.js 18+ and npm
-
-### Backend Setup
-
-1. **Navigate to backend directory:**
-   ```bash
-   cd ProjectManagerAPI
-
-   restore dependencies and run
-   dotnet run
-```
-API: http://localhost:5142
-
-Swagger UI: http://localhost:5142/swagger
+dotnet restore
+dotnet run
 
 
-Open a new terminal and navigate to frontend:
+Access API and Documentation
 
-bash
+API Base URL → http://localhost:5142
+
+Swagger UI → http://localhost:5142/swagger
+
+💻 Frontend Setup
+
+Open a new terminal and navigate to frontend
+
 cd project-manager-frontend
-Install dependencies and start:
 
-bash
+
+Install dependencies and start development server
+
 npm install
 npm run dev
-Access the application:
 
-Frontend: http://localhost:5173
+
+Access the application
+
+Frontend → http://localhost:5173
 
 📖 API Endpoints
-Authentication
-POST /api/auth/register - User registration
-
-POST /api/auth/login - User login
-
-Projects (Requires Authentication)
-GET /api/projects - Get user's projects
-
-GET /api/projects/{id} - Get project details with tasks
-
-POST /api/projects - Create new project
-
-DELETE /api/projects/{id} - Delete project
-
-Core Functionality
-User Management
+🔐 Authentication
+Method	Endpoint	Description
+POST	/api/auth/register	Register a new user
+POST	/api/auth/login	Authenticate user and return JWT token
+📁 Projects (Requires Authentication)
+Method	Endpoint	Description
+GET	/api/projects	Get all projects of a user
+GET	/api/projects/{id}	Get details of a specific project with tasks
+POST	/api/projects	Create a new project
+DELETE	/api/projects/{id}	Delete a project (with cascading task removal)
+✅ Tasks
+Method	Endpoint	Description
+POST	/api/projects/{projectId}/tasks	Add a new task to a project
+PATCH	/api/tasks/{id}	Edit or update a task
+DELETE	/api/tasks/{id}	Delete a task
+PATCH	/api/tasks/{id}/complete	Mark a task as complete/incomplete
+🧠 Core Functionality
+🧍 User Management
 
 Secure registration and login
 
-JWT token-based authentication
+JWT-based authentication
 
 Automatic token storage and management
 
-Project Management
+📊 Project Management
 
 Create and organize projects
 
 View project details with associated tasks
 
-Delete projects with cascading task removal
+Delete projects (removes all related tasks)
 
-Task Management
+📋 Task Management
 
-Add tasks to specific projects
+Add, edit, and delete tasks per project
 
-Mark tasks as complete/incomplete
+Mark tasks as complete or pending
 
-Edit task details and due dates
+Set due dates for better tracking
 
-Delete individual tasks
+🧩 Key Components
+🖥️ Backend Architecture
 
-Key Components
-Backend Architecture
-Controllers: Handle HTTP requests and responses
+Controllers → Handle HTTP requests/responses
 
-Services: Business logic with dependency injection
+Services → Contain business logic (via dependency injection)
 
-DTOs: Data transfer objects for API contracts
+DTOs → Define API request/response contracts
 
-Models: Entity definitions with relationships
+Models → Represent entities with relationships
 
-Frontend Architecture
-ProtectedRoute: Authentication guard for private pages
+💡 Frontend Architecture
 
-Axios Instance: Configured API client with interceptors
+ProtectedRoute → Ensures only authenticated users can access private routes
 
-Type Safety: Full TypeScript implementation
+Axios Instance → Preconfigured API client with interceptors
+
+Type Safety → Complete TypeScript implementation for reliability
+
+Component Reusability → Modular UI design using React components
 
 Component Reusability: Modular, reusable UI components
 
