@@ -1,3 +1,4 @@
+
 ## Project Manager
 
 A full-stack project and task management system built with .NET 8 (C#) and React + TypeScript.
@@ -119,4 +120,41 @@ Make sure you have installed:
 4. Component Reusability → Modular UI design using React components
 
 5. Component Reusability: Modular, reusable UI components
+
+
+
+
+## UI SCREENSHOTS
+
+1. Register page
+    <p align="center">
+  <img width="1042" height="1234" alt="image" src="https://github.com/user-attachments/assets/349e23c4-f1a6-429c-aad2-1ba14931c870" />
+</p>
+2. Login page
+<p align="center">
+  <img width="902" height="1150" alt="image" src="https://github.com/user-attachments/assets/5a6b1b18-b3a8-438a-a66c-3f6f6a3d19d4" />
+</p>
+
+3. Recieved token after login
+<p align="center">
+<img width="2880" height="1594" alt="image" src="https://github.com/user-attachments/assets/026b5e3c-33cb-4e1b-a086-3dc6e50cea14" />
+</p>
+4. Project Dashboard
+<p align="center">
+<img width="1982" height="1522" alt="image" src="https://github.com/user-attachments/assets/bf8a4629-07df-4a9d-8bbd-def4a1e6aa9b" />
+</p>
+5. Dashboard after adding projects
+<p align="center">
+<img width="2226" height="1636" alt="image" src="https://github.com/user-attachments/assets/cc07d096-f93c-4477-94bb-e2f8b153694e" />
+</p>
+
+5. adding tasks to paricular projects
+<p align="center">
+<img width="1146" height="1468" alt="image" src="https://github.com/user-attachments/assets/3a623851-2bb3-4f2f-b3c5-e00ffa1c378b" />
+</p>
+5. progress
+<p align="center">
+<img width="1884" height="1158" alt="image" src="https://github.com/user-attachments/assets/a38611de-db6e-4d51-9f9e-6c35a7494758" />
+
+</p>
 
