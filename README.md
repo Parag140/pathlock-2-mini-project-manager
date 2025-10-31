@@ -42,9 +42,9 @@ Make sure you have installed:
 
 4. Access API and Documentation
 
-5. API Base URL → http://localhost:5142
+5. API Base URL → http://localhost:5298
 
-6. Swagger UI → http://localhost:5142/swagger
+6. Swagger UI → http://localhost:5298/swagger
 
 
 ## Frontend Setup
