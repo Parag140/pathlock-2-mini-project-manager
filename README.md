@@ -5,20 +5,23 @@ It includes user authentication, project handling, and task scheduling — with 
 
 ## Project Structure
 ProjectManagerAPI/                # Backend (.NET API)
-├── Controllers/                  # API Controllers (Auth, Projects, Tasks)
-├── Models/                       # Data Models (User, Project, TaskItem)
-├── DTOs/                         # Data Transfer Objects
-├── Services/                     # Business Logic Layer
-├── Data/                         # Data Store Interface & Implementation
-└── Program.cs                    # Application Configuration
 
-project-manager-frontend/         # Frontend (React App)
-├── src/
-│   ├── components/               # Reusable UI Components
-│   ├── pages/                    # Application Pages
-│   ├── api/                      # API Configuration
-│   ├── utils/                    # Utility Functions
-│   └── types/                    # TypeScript Type Definitions
+                     ```
+                     ├── Controllers/                  # API Controllers (Auth, Projects, Tasks)
+                     ├── Models/                       # Data Models (User, Project, TaskItem)
+                     ├── DTOs/                         # Data Transfer Objects
+                     ├── Services/                     # Business Logic Layer
+                     ├── Data/                         # Data Store Interface & Implementation
+                     └── Program.cs                    # Application Configuration
+         
+                     project-manager-frontend/         # Frontend (React App)
+                     ```
+                     ├── src/
+                     │   ├── components/               # Reusable UI Components
+                     │   ├── pages/                    # Application Pages
+                     │   ├── api/                      # API Configuration
+                     │   ├── utils/                    # Utility Functions
+                     │   └── types/                    # TypeScript Type Definitions
 
 ## Quick Start 
 ## Prerequisites
