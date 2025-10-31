@@ -148,11 +148,11 @@ Make sure you have installed:
 <img width="2226" height="1636" alt="image" src="https://github.com/user-attachments/assets/cc07d096-f93c-4477-94bb-e2f8b153694e" />
 </p>
 
-5. adding tasks to paricular projects
+6. adding tasks to paricular projects
 <p align="center">
 <img width="1146" height="1468" alt="image" src="https://github.com/user-attachments/assets/3a623851-2bb3-4f2f-b3c5-e00ffa1c378b" />
 </p>
-5. progress
+7. progress
 <p align="center">
 <img width="1884" height="1158" alt="image" src="https://github.com/user-attachments/assets/a38611de-db6e-4d51-9f9e-6c35a7494758" />
 
