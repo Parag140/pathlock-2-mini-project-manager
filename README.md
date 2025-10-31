@@ -37,13 +37,15 @@ Make sure you have installed:
 
 2. Restore dependencies and run the server
    dotnet restore
+   ```bash
    dotnet run
 
-3. Access API and Documentation
+4. Access API and Documentation
 
-4. API Base URL → http://localhost:5142
+5. API Base URL → http://localhost:5142
 
-5. Swagger UI → http://localhost:5142/swagger
+6. Swagger UI → http://localhost:5142/swagger
+
 
 ## Frontend Setup
 
@@ -51,10 +53,11 @@ Make sure you have installed:
     cd project-manager-frontend
 
 2. Install dependencies and start development server
-   npm install
-   npm run dev
+     ```bash
+         npm install
+         npm run dev
 
-   Access the application
+ Access the application
    Frontend → http://localhost:5173
 
 ## API Endpoints
